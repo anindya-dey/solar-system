@@ -1,0 +1,26 @@
+{
+  "name": "solar-system",
+  "version": "1.0.0",
+  "description": "Solar System using Three.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anindya-dey/solar-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anindya-dey/solar-system/issues"
+  },
+  "homepage": "https://github.com/anindya-dey/solar-system#readme",
+  "dependencies": {
+    "three": "^0.145.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
